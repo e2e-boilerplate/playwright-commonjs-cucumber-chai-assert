@@ -1,11 +1,12 @@
 | referrer                                                                                           | count | uniques |
 | :------------------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert                                          | 9     | 1       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert                                          | 10    | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/tree/master/.github/traffic              | 6     | 1       |
-| /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/actions                                  | 2     | 1       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/actions                                  | 3     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/blob/master/.github/traffic/referrers.md | 2     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/tree/master/.github                      | 2     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/blob/master/.github/traffic/clones.md    | 1     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/blob/master/.github/traffic/paths.md     | 1     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/blob/master/.github/traffic/views.md     | 1     | 1       |
-| /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/runs/562666994                           | 1     | 1       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/graphs/traffic                           | 1     | 1       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-chai-assert/pulse                                    | 1     | 1       |
